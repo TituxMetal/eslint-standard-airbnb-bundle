@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-standard-airbnb-bundle",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Eslint bundled with Standard, Airbnb and personnal configuration.",
   "main": "index.js",
   "homepage": "https://github.com/TuxiMetal/eslint-standard-airbnb-bundle",

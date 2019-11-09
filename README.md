@@ -1,1 +1,3 @@
-Eslint bundled with standard and airbnb configuration
+# Eslint Standard Airbnb Bundle
+
+Eslint bundled with Standard, Airbnb and personnal configuration.

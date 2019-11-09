@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-standard-airbnb-bundle",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Eslint bundled with standard and airbnb configuration",
   "main": "index.js",
   "homepage": "https://github.com/TuxiMetal/eslint-standard-airbnb-bundle",
@@ -24,22 +24,9 @@
     "eslint-plugin-node": "^10.0.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^1.7.0",
     "eslint-plugin-standard": "^4.0.1"
   },
-  "bundleDependencies": [
-    "eslint",
-    "eslint-config-airbnb",
-    "eslint-config-standard",
-    "eslint-config-standard-react",
-    "eslint-plugin-babel",
-    "eslint-plugin-import",
-    "eslint-plugin-jsx-a11y",
-    "eslint-plugin-node",
-    "eslint-plugin-promise",
-    "eslint-plugin-react",
-    "eslint-plugin-react-hooks",
-    "eslint-plugin-standard"
-  ],
   "keywords": [
     "eslint",
     "eslintconfig",

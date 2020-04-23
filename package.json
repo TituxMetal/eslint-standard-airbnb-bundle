@@ -3,14 +3,14 @@
   "version": "1.0.5",
   "description": "Eslint bundled with Standard, Airbnb and personnal configuration.",
   "main": "index.js",
-  "homepage": "https://github.com/TuxiMetal/eslint-standard-airbnb-bundle",
+  "homepage": "https://github.com/TituxMetal/eslint-standard-airbnb-bundle",
   "author": "Tuxi Metal <tuximetal@lgdweb.fr>",
   "license": "MIT",
   "bin": {
     "eslint": "node_modules/eslint/bin/eslint.js"
   },
   "repository": {
-    "url": "https://github.com/TuxiMetal/eslint-standard-airbnb-bundle",
+    "url": "https://github.com/TituxMetal/eslint-standard-airbnb-bundle",
     "type": "git"
   },
   "dependencies": {
